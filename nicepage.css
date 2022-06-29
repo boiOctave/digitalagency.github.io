@@ -37166,3 +37166,14 @@ body::-webkit-scrollbar-thumb {
 /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
+ #header svg{
+  color: wheat;
+ }
+
+ .sticky {
+  background-color: #eaf2f0 !important;
+}
+
+.sticky svg {
+  color: black !important;
+}
